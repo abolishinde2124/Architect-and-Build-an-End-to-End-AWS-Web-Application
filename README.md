@@ -1,0 +1,1 @@
+<img width="1369" alt="Wec Application Architecture" src="https://github.com/abolishinde2124/Architect-and-Build-an-End-to-End-AWS-Web-Application/assets/142035465/ee6a9c25-edd9-45e2-b13d-23c0793ba360">
